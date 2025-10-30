@@ -1,7 +1,0 @@
-.env
-.txt
-node_modules
-.DS_Store
-generated
-prisma/migrations/
-.gitignore
